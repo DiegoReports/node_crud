@@ -12,7 +12,7 @@
 ## Tecnologias:
 - <img alt="Node" align="center" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 - <img alt="Express" align="center" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-- <img alt="Postgressql" align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+- <img alt="Postgresql" align="center" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
 
 ## Ferramentas Utilizadas:
 
@@ -22,7 +22,7 @@
 - VS Code
 
 ## Descrição do projeto:
-A aplicação consite em um cadastro de filmes por categorias. Podemos criar, alterar, ler e remover dados da aplicação. Vimos um pouco sobre relacionamento entre tabelas utilizando o <a href="https://typeorm.io/#/">TypeOrm</a>. Essas operações são salvas diretamente no nosso banco de dados PostgresSql que já estava pré-configurado.
+A aplicação consite em um cadastro de filmes por categorias. Podemos criar, alterar, ler e remover dados da aplicação. Vimos um pouco sobre relacionamento entre tabelas utilizando o <a href="https://typeorm.io/#/">TypeOrm</a>. Essas operações são salvas diretamente no nosso banco de dados PostgreSql que já estava pré-configurado.
 
 ## Scripts Disponíveis
 
